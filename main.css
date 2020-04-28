@@ -1,0 +1,23 @@
+body {width:500px;margin:auto;}
+h1 {color:orange;
+    background:-webkit-linear-gradient(0deg,orange,red);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+#welcome {color:orange;
+    background:-webkit-linear-gradient(0deg,red,orange);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    display:block;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: red;
+}
+#profile {background-color: gray;
+    height:200px;
+    padding-left:5px;padding-top:5px;
+    vertical-align: bottom;
+}
+#profile h2 {line-height: 20px;width:100%;}
+#profile img {float:left;}
+#profile dl {margin-top:10px;float:left;}

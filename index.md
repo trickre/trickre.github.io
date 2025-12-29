@@ -8,7 +8,7 @@ Embedded / HPC / Simulation Engineer
 ---
 
 ## Profile
-![Profile](assets/profile.png)
+![Profile](assets/prof.png)
 
 - **Born**: 1989  
 - **Country**: Japan  

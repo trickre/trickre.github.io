@@ -13,7 +13,7 @@ Embedded / HPC / Simulation Engineer
 - **Born**: 1989  
 - **Country**: Japan  
 - **Interest**: Making things, simulation, system design  
-
+- **Other**: [Personal_Experience](./dekigoto.html)
 ---
 
 ## Skills
